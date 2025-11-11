@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🌟
 🚀 Actively seeking my **first professional opportunity** to grow as an engineer and contribute to impactful projects.  
 
 ## 🧑‍💻 About Me
-- 🌱 Currently improving my skills in **[Java ,JS ,Python ,Angular and C#*  
+- 🌱 Currently improving my skills in **Java ,JS ,Python ,Angular and C#*  
 - 💡 Interested in **software development, cloud computing, and AI**
 - 🎯 Goal for 2025: land my first developer role and keep contributing to projects meaningfull to me
 
